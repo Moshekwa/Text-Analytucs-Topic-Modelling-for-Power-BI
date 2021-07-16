@@ -1,1 +1,1 @@
-# Text-Analytucs-Topic-Modelling-for-Power-BI
+# Text-Analytics-Topic-Modelling-for-Power-BI
